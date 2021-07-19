@@ -1,2 +1,2 @@
 # curso-react-iniciante-udemy
-Created with CodeSandbox
+Link para o projeto [aqui] (https://wtszf.csb.app/);
